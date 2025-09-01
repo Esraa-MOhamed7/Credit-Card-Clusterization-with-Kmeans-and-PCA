@@ -31,7 +31,7 @@
 ![scatter](https://github.com/Esraa-MOhamed7/Credit-Card-Clusterization-with-Kmeans-and-PCA/blob/main/Segmenting%20Customers%20Based%20on%20Spending%20and%20Credit%20Capacity.png)
 ![pie](https://github.com/Esraa-MOhamed7/Credit-Card-Clusterization-with-Kmeans-and-PCA/blob/main/Credit%20Card%20Distribution%20by%20Cluster.png)
 ![bar](https://github.com/Esraa-MOhamed7/Credit-Card-Clusterization-with-Kmeans-and-PCA/blob/main/Spending%20Behavior%20by%20Cluster.png)
-![scatter PCA](kk.mn)
+![scatter PCA](https://github.com/Esraa-MOhamed7/Credit-Card-Clusterization-with-Kmeans-and-PCA/blob/main/PCA%20Cluster%20Visualization.png)
 
 ---
 
